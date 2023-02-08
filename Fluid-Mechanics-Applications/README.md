@@ -1,3 +1,3 @@
 # -Fluid-Mechanics-Applications
 
-In this foldar I will deposit some applications to solve a few problems or questions about fluid mechanincs.
+In this folder I will deposit some applications to solve a few problems or questions about fluid mechanincs.
